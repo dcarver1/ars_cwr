@@ -1,0 +1,30 @@
+# --- R Related ---
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+.Rproj.user/
+.Rlibs/
+# If you use packrat or renv, you might want to adjust these
+# renv/library/
+# renv/staging/
+
+# --- Data Exclusion (Strict) ---
+# Ignore all files in the data directory
+data/
+# Or specifically ignore common data extensions anywhere
+*.csv
+*.rds
+*.RData
+*.rda
+*.xlsx
+*.parquet
+*.json
+*.sqlite
+*.db
+
+# --- Logs and Temp ---
+*.log
+.DS_Store
+.thumbs.db
+desktop.ini
