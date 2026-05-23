@@ -1,5 +1,5 @@
 # Project Plan
-
+gain, please ey girls off that blue thing plea
 ## 1. Scope
 **Define the project boundaries**
 
@@ -17,7 +17,6 @@ The primary objective of this repository is to build an automated, reproducible 
 * Spatial analysis or geospatial mapping of the results.
 * Downstream statistical modeling of species distribution.
 * Manual data entry or manual taxonomic corrections outside of automated rules.
-
 ---
 
 ## 2. Tasks
