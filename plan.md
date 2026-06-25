@@ -1,5 +1,5 @@
 # Project Plan
-gain, please ey girls off that blue thing plea
+
 ## 1. Scope
 **Define the project boundaries**
 
